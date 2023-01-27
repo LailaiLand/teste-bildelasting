@@ -17,6 +17,7 @@ const model = {
                 img: "IMG/Niko token.png"
             },
 
-        ]
+        ],
+        incomplete: "",
     }
 }
