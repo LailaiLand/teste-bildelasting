@@ -16,6 +16,10 @@ const model = {
                 title: "niko",
                 img: "IMG/Niko token.png"
             },
+            {
+                title: "MelkkleM",
+                img: "IMG/Melk kleM reduced.gif"
+            },
 
         ],
         incomplete: "",
