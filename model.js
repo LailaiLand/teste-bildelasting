@@ -20,6 +20,10 @@ const model = {
                 title: "MelkkleM",
                 img: "IMG/Melk kleM reduced.gif"
             },
+            {
+                title: "MelkkleM",
+                img: "IMG/Trussel.gif"
+            },
 
         ],
         incomplete: "",
