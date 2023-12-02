@@ -21,7 +21,7 @@ const model = {
                 img: "IMG/Melk kleM reduced.gif"
             },
             {
-                title: "MelkkleM",
+                title: "Trussel",
                 img: "IMG/Trussel.gif"
             },
 
