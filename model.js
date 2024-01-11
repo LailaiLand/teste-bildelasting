@@ -24,6 +24,10 @@ const model = {
                 title: "Trussel",
                 img: "IMG/Trussel.gif"
             },
+            {
+                title: "VeryMedicMedisin",
+                img: "IMG/VeryMedicMedisin.gif"
+            },
 
         ],
         incomplete: "",
