@@ -4,6 +4,12 @@ function updateMainView() {
     html += image.title;
     html += `<img src='${image.img}'/><br>`;
   });
+    html += /*HTML*/ `
+    <video width="400" controls>
+      <source src="IMG/d52ea71487d81c32938231511d4c3406.mp4" type="video/mp4">
+    </video>
+    <p>Kanskje se på å legge til en videoliste senere, men for nå så quickfix</p>
+    `;
   html += `
     <button onclick="updateState()">Legg til</button>
   `;
