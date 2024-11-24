@@ -10,6 +10,12 @@ function updateMainView() {
     </video>
     <p>Kanskje se på å legge til en videoliste senere, men for nå så quickfix</p>
     `;
+    html += /*HTML*/ `
+    <video width="400" controls>
+      <source src="IMG/kino.mp4" type="video/mp4">
+    </video>
+    <p>Kan jo dele opptil 100mb på discord om du har link heller enn fil...</p>
+    `;
   html += `
     <button onclick="updateState()">Legg til</button>
   `;
