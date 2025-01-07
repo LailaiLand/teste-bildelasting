@@ -16,6 +16,12 @@ function updateMainView() {
     </video>
     <p>Kan jo dele opptil 100mb på discord om du har link heller enn fil...</p>
     `;
+    html += /*HTML*/ `
+    <video width="400" controls>
+      <source src="IMG/Blod og medisin.mp4" type="video/mp4">
+    </video>
+    <p>Burde laget video-script snart???</p>
+    `;
   html += `
     <button onclick="updateState()">Legg til</button>
   `;
