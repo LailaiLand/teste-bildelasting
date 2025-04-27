@@ -28,6 +28,12 @@ function updateMainView() {
     </video>
     <p>Burde laget video-script snart???</p>
     `;
+    html += /*HTML*/ `
+    <video width="400" controls>
+      <source src="IMG/9ecce8eb507547fcfb15c10328b9916c.mp4" type="video/mp4">
+    </video>
+    <p>Gidderikke</p>
+    `;
   html += `
     <button onclick="updateState()">Legg til</button>
   `;
