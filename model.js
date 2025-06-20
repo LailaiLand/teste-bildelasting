@@ -28,6 +28,10 @@ const model = {
                 title: "VeryMedicMedisin",
                 img: "IMG/VeryMedicMedisin.gif"
             },
+            {
+                title: "kungen_lordag_kungen",
+                img: "IMG/kungen_lordag_kungen.gif"
+            },
 
         ],
         incomplete: "",
